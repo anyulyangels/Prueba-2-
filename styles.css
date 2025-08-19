@@ -95,3 +95,10 @@ button:hover {
 .register-text a:hover {
   text-decoration: underline;
 }
+.logo {
+  width: 120px;   /* puedes ajustar el tamaño */
+  margin-bottom: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
